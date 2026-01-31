@@ -1,0 +1,2 @@
+**Drowsiness** is a status effect that reduced the target precision by x% of its intensity, making it less able to hit with Attacks. Drowsiness can stack and the intensity is based on the hit that applies the stack.
+When the intensity reaches 100%, the target falls asleep.

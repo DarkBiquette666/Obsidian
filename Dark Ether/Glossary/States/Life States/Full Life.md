@@ -1,0 +1,1 @@
+Full Life is a character state and a condition that is met when the character's health is 100% by default.

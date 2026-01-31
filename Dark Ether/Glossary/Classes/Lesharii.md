@@ -1,0 +1,2 @@
+![[Lesharii_UI_Portait.png]]
+The Lesharii are nomadic hunters of the wilderness. Their skin is covered with tribal patterns, and their eyes shine with a bestial gleam. They excel in the art of hunting, using bows and summoning creatures of nature to track their prey.

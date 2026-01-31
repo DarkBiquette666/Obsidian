@@ -1,0 +1,1 @@
+A Unique Item is a very special item that provide unique combinaison of stats and/or unique mechanics that you cannot find somewhere else. They can be very powerful of used correctly and open new synergies.

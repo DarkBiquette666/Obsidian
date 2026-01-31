@@ -1,0 +1,2 @@
+![[Fortunians_UI_Portait.png]]
+The Fortunians are intrepid adventurers, always in search of their next fortune. Their faces are marked by scars from past battles, and their eyes sparkle with unwavering determination. Skilled in the art of luck and cunning, they navigate through life's challenges with boldness and ingenuity.

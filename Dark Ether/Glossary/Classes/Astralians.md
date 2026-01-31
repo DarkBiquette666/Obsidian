@@ -1,0 +1,2 @@
+![[Astraliens_UI_Portait.png]]
+The Astralians are ethereal beings with cosmic reflections. Their silhouettes seem to fluctuate in time and space. Masters of temporal arcanes, they manipulate cosmic energies to predict their enemies' movements and alter reality itself.

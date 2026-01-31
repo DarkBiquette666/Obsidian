@@ -1,0 +1,272 @@
+/* Claude Integration Plugin Styles */
+
+/* Modal Styles */
+.claude-modal-header {
+	border-bottom: 1px solid var(--background-modifier-border);
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+
+.claude-modal-header h2 {
+	margin: 0;
+	color: var(--text-normal);
+}
+
+/* Input Container */
+.claude-input-container {
+	margin-bottom: 20px;
+}
+
+.claude-input {
+	width: 100%;
+	min-height: 100px;
+	padding: 10px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 5px;
+	background-color: var(--background-primary);
+	color: var(--text-normal);
+	font-family: var(--font-text);
+	resize: vertical;
+	box-sizing: border-box;
+}
+
+.claude-input:focus {
+	outline: none;
+	border-color: var(--interactive-accent);
+	box-shadow: 0 0 0 2px var(--interactive-accent-hover);
+}
+
+/* Button Container */
+.claude-button-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 10px;
+}
+
+.claude-send-button {
+	padding: 8px 16px;
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-weight: 500;
+}
+
+.claude-send-button:hover:not(:disabled) {
+	background-color: var(--interactive-accent-hover);
+}
+
+.claude-send-button:disabled {
+	opacity: 0.6;
+	cursor: not-allowed;
+}
+
+/* Quick Actions */
+.claude-quick-actions {
+	display: flex;
+	gap: 8px;
+}
+
+.claude-quick-button {
+	padding: 6px 12px;
+	background-color: var(--background-secondary);
+	color: var(--text-normal);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+.claude-quick-button:hover {
+	background-color: var(--background-modifier-hover);
+}
+
+/* Output Area */
+.claude-output {
+	max-height: 400px;
+	overflow-y: auto;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 5px;
+	padding: 15px;
+	background-color: var(--background-secondary);
+}
+
+/* Message Styles */
+.claude-message {
+	margin-bottom: 15px;
+	padding: 10px;
+	border-radius: 8px;
+	position: relative;
+}
+
+.claude-message-user {
+	background-color: var(--background-primary);
+	border-left: 4px solid var(--interactive-accent);
+}
+
+.claude-message-assistant {
+	background-color: var(--background-primary-alt);
+	border-left: 4px solid var(--text-muted);
+}
+
+.claude-message-role {
+	font-weight: 600;
+	font-size: 12px;
+	margin-bottom: 5px;
+	color: var(--text-muted);
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+.claude-message-content {
+	line-height: 1.5;
+	color: var(--text-normal);
+}
+
+.claude-message-content p {
+	margin: 0 0 10px 0;
+}
+
+.claude-message-content p:last-child {
+	margin-bottom: 0;
+}
+
+/* Copy Button */
+.claude-copy-button {
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	padding: 4px 8px;
+	background-color: var(--background-secondary);
+	color: var(--text-muted);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 3px;
+	cursor: pointer;
+	font-size: 11px;
+	opacity: 0;
+	transition: opacity 0.2s ease;
+}
+
+.claude-message:hover .claude-copy-button {
+	opacity: 1;
+}
+
+.claude-copy-button:hover {
+	background-color: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+/* Error Styles */
+.claude-error {
+	padding: 10px;
+	background-color: var(--background-modifier-error);
+	border: 1px solid var(--text-error);
+	border-radius: 5px;
+	color: var(--text-error);
+	margin-bottom: 15px;
+}
+
+/* Response Modal */
+.claude-response {
+	background-color: var(--background-secondary);
+	padding: 15px;
+	border-radius: 5px;
+	margin: 15px 0;
+	line-height: 1.6;
+	color: var(--text-normal);
+	max-height: 300px;
+	overflow-y: auto;
+}
+
+/* Settings Styles */
+.claude-settings-section {
+	margin-bottom: 20px;
+}
+
+.claude-settings-section h3 {
+	margin-bottom: 10px;
+	color: var(--text-normal);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+	.claude-button-container {
+		flex-direction: column;
+		gap: 10px;
+		align-items: stretch;
+	}
+	
+	.claude-quick-actions {
+		justify-content: center;
+	}
+	
+	.claude-send-button {
+		width: 100%;
+	}
+}
+
+/* Dark Mode Adjustments */
+.theme-dark .claude-input {
+	background-color: var(--background-primary);
+	color: var(--text-normal);
+}
+
+.theme-dark .claude-output {
+	background-color: var(--background-secondary);
+}
+
+/* Loading Animation */
+.claude-loading {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	border: 2px solid var(--background-modifier-border);
+	border-radius: 50%;
+	border-top-color: var(--interactive-accent);
+	animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+	to { transform: rotate(360deg); }
+}
+
+/* Code Blocks in Responses */
+.claude-message-content pre {
+	background-color: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 4px;
+	padding: 10px;
+	overflow-x: auto;
+	margin: 10px 0;
+}
+
+.claude-message-content code {
+	background-color: var(--background-secondary);
+	padding: 2px 4px;
+	border-radius: 3px;
+	font-family: var(--font-monospace);
+	font-size: 0.9em;
+}
+
+/* Lists in Responses */
+.claude-message-content ul,
+.claude-message-content ol {
+	margin: 10px 0;
+	padding-left: 20px;
+}
+
+.claude-message-content li {
+	margin: 5px 0;
+}
+
+/* Links in Responses */
+.claude-message-content a {
+	color: var(--text-accent);
+	text-decoration: none;
+}
+
+.claude-message-content a:hover {
+	text-decoration: underline;
+} 

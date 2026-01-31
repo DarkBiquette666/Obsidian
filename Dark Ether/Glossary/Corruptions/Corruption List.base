@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - type == "corruption"
+    order:
+      - file.name
+      - category
+      - subcategory
+      - reward_type
+      - status
+      - file.tags
+    sort:
+      - property: category
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.category: 156
+      note.subcategory: 191
+      note.type: 117
+      note.reward_type: 250
+    cardSize: 770
+  - type: table
+    name: View

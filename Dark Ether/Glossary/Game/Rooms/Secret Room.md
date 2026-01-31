@@ -1,0 +1,1 @@
+Secret Rooms are very rare. They hold a Unique Item, unlock a skill, give a lot of resources or allowed the player to die x time in the current run before going back in the Lobby.

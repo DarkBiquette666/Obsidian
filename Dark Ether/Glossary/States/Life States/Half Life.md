@@ -1,0 +1,1 @@
+Half Life is a character state and a condition that is met when the character's health is between 40% and 60% by default.

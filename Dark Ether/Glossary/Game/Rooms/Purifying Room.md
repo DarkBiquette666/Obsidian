@@ -1,0 +1,1 @@
+This room can offer the player to remove a Corruption or a Skill Perk

@@ -1,0 +1,1 @@
+A magic item is an item with 1 prefix and 1 suffix.

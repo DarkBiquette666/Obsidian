@@ -1,0 +1,2 @@
+![[Umbrathi_UI_Portait.png]]
+The Umbrathi are dark and stealthy beings, moving like shadows in the night. Their forms are indistinct, seeming to dissolve into the surrounding darkness. Experts in infiltration and assassination, they are the nightmares of Vor'mir's enemies, slipping into the darkest corners to eliminate their targets.

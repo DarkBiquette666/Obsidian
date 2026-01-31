@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "78dd073ca37e71d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a64175b93933e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242960117b8729d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Ether/Glossary/Support Runes/Laceration Support.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laceration Support"
+            }
+          },
+          {
+            "id": "15fc6813dc151b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Ether/Glossary/Support Runes/_Document de Spécification - Système Runicographique pour Supports de Skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Document de Spécification - Système Runicographique pour Supports de Skills"
+            }
+          },
+          {
+            "id": "f7ace32ba49a5116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Ether/Glossary/Support Runes/Assets/_Visual_Runes_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Visual_Runes_Index"
+            }
+          },
+          {
+            "id": "519a87ac26df26bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Ether/Progression System Rework - Tracker.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Progression System Rework - Tracker"
+            }
+          },
+          {
+            "id": "70dc3f0a4ce85c50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82a1354a55d8e8b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ef81ac2bf771b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68812e632de3394",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d8a64ec658725ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:element",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4a4867f8a1707ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 744.5
+  },
+  "right": {
+    "id": "342663aeccdf21a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "846cdfd00393e24a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169871fcc9e0b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dark Ether/Glossary/Skills/Blood/Tainted Blood.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tainted Blood"
+            }
+          },
+          {
+            "id": "c9a51d0d88b88b86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dark Ether/Glossary/Bestiary/Undead/Spectre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Spectre"
+            }
+          },
+          {
+            "id": "268a4ba459f73498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d5da02ecd7f7981",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dark Ether/Progression System Rework - Tracker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Progression System Rework - Tracker"
+            }
+          },
+          {
+            "id": "2fb00a56f17aee21",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 841.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "companion:Toggle completion": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "519a87ac26df26bb",
+  "lastOpenFiles": [
+    "Dark Ether/Glossary/Support Runes/Assets/_Visual_Runes_Index.md",
+    "Dark Ether/Glossary/Support Runes/Accelerated Affliction Support.md",
+    "Dark Ether/Glossary/Support Runes/Assets/Accelerated_Affliction_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/_Document de Spécification - Système Runicographique pour Supports de Skills.md",
+    "Dark Ether/Glossary/Support Runes/Assets/Fork_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Extended_Duration_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Elemental_Conversion_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Vitality_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Vicious_Ailments_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Rapid_Recharge_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Multiple_Projectiles_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Massive_Area_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Assets/Long_Reach_Rune.svg",
+    "Dark Ether/Glossary/Support Runes/Elemental Conversion Support.md",
+    "Dark Ether/Glossary/Support Runes/Extended Duration Support.md",
+    "Dark Ether/Glossary/Support Runes/Efficiency Support.md",
+    "Dark Ether/Glossary/Support Runes/Concentrated Area Support.md",
+    "Dark Ether/Glossary/Support Runes/Chain Support.md",
+    "Dark Ether/Glossary/Support Runes/Vitality Support.md",
+    "Dark Ether/Glossary/Support Runes/Vicious Ailments Support.md",
+    "Dark Ether/Glossary/Support Runes/Rapid Recharge Support.md",
+    "Dark Ether/Glossary/Support Runes/Multiple Projectiles Support.md",
+    "Dark Ether/Glossary/Support Runes/Massive Area Support.md",
+    "Dark Ether/Glossary/Support Runes/Long Reach Support.md",
+    "Dark Ether/Glossary/Support Runes/Laceration Support.md",
+    "Dark Ether/Glossary/Support Runes/Homing Support.md",
+    "Dark Ether/Glossary/Support Runes/Fork Support.md",
+    "Dark Ether/Glossary/Support Runes/generate_runes.py",
+    "Dark Ether/Glossary/Support Runes/Assets",
+    "Dark Ether/Glossary/Skills and Perks/Blood/Blood Blade/Blood Blade.md",
+    "Dark Ether/Progression System Rework - Tracker.md",
+    "Dark Ether/Glossary/Game/Progression System Rework - Summary.md",
+    "Dark Ether/Glossary/Support Runes/Time Compression Support.md",
+    "Dark Ether/Glossary/Skill Tags/Beam.md",
+    "Dark Ether/Glossary/Skill Tags/Bleed.md",
+    "Dark Ether/Glossary/Skill Tags/Skill Tags.md",
+    "Dark Ether/Glossary/Skill Tags/Homing.md",
+    "Dark Ether/Glossary/Corruptions/Corruption List.base",
+    "Dark Ether/Glossary/Support Runes",
+    "Dark Ether/Glossary/Game/Rooms/List of Trial/List of Trials.base",
+    "Dark Ether/Glossary/Skills and Perks/Voidborn/Voidborn Skills Master.base",
+    "Dark Ether/Glossary/Skills and Perks/Voidborn/Call of the Colony/Call of the Colony Perks.base",
+    "Dark Ether/Glossary/Skills and Perks/Voidborn/Call of the Colony",
+    "Dark Ether/Glossary/Skills and Perks/Voidborn/Corrosive Bile/Corrosive Bile Perks.base",
+    "Dark Ether/Glossary/Skills and Perks/Voidborn/Corrosive Bile",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

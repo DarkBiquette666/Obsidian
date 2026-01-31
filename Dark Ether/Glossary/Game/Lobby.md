@@ -1,0 +1,1 @@
+The peaceful place where the player can rest, and prepare himself for the next run. After each deaths, the player is bring back the the Lobby.

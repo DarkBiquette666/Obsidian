@@ -1,0 +1,52 @@
+views:
+  - type: table
+    name: Blood Barrier Perks Overview
+    filters:
+      and:
+        - skill == "Blood Barrier"
+        - type == "perk"
+    order:
+      - file.name
+      - status
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columns:
+      - field: file.link
+        name: Perk Name
+        width: 180
+      - field: category
+        name: Category
+        width: 150
+      - field: status
+        name: Implementation
+        width: 120
+      - field: tags
+        name: Tags
+        width: 250
+    columnSize:
+      file.name: 187
+  - type: cards
+    name: Perks by Category
+    filters:
+      and:
+        - skill == "Blood Barrier"
+        - type == "perk"
+    sort:
+      - property: file.name
+        direction: ASC
+    columns: 3
+    group:
+      property: category
+  - type: list
+    name: Implementation Priority
+    filters:
+      and:
+        - skill == "Blood Barrier"
+        - type == "perk"
+        - status == "concept"
+    sort:
+      - property: category
+        direction: ASC

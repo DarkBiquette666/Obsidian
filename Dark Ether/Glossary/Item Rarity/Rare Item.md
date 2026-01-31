@@ -1,0 +1,1 @@
+A Rare item have a minimum of 2 prefixes and 2 suffixes up to 3 prefixes and 3 suffixes. 

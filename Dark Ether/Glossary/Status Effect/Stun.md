@@ -1,0 +1,1 @@
+**Stun** is a status effect that immobilize the affected target, prevent it to do any action until the stun is finished.

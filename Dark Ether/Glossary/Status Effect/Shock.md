@@ -1,0 +1,1 @@
+**Shock** is a status effect that increases the damage taken by the target. The intensity of Shock depends on the hit that applies it. At 100% intensity by default, the target takes **x%** additional damage.

@@ -1,0 +1,1 @@
+This the base rarity for items. They don't provide any additional stat but the ones inherent to the base item type.
