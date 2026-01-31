@@ -1,0 +1,50 @@
+---
+aliases:
+  - Dragon d'or, dragonnet
+tags:
+  - monstre
+  - bestiaire
+type: Dragon
+facteur_puissance: 3 (700 PX)
+---
+
+# Dragon d'or, dragonnet
+
+```dnd-monstre
+name: "Dragon d'or, dragonnet"
+type: Dragon
+taille: Moyen
+alignement: loyal bon
+ca: 17 (armure naturelle)
+pv: 60 (8d8 + 24)
+vitesse: 9 m, nage 9 m, vol 18 m
+for: 19
+dex: 14
+con: 17
+int: 14
+sag: 11
+cha: 16
+sauvegardes: Dex +4, Con +5, Sag +2, Cha +5
+sens: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+langues: draconique
+facteur_puissance: 3 (700 PX)
+source: Monster Manual (SRD)
+compétences:
+  - Discrétion +4
+  - Perception +4
+immunites:
+  - feu
+traits:
+  - name: Amphibien
+    description: "Le dragon peut respirer aussi bien dans l'air que sous l'eau."
+actions:
+  - name: Morsure
+    description: "Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d10 + 4) dégâts perforants."
+    attaque: +6 au toucher
+  - name: Souffles (Recharge 5-6)
+    description: "Le dragon utilise l'un des souffles de combat présentés ci-dessous."
+  - name: Souffle de feu
+    description: "Le dragon crache des flammes dans un cône de 4,50 mètres. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Dextérité DD 13, subissant 22 (4d10) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite."
+  - name: Souffle affaiblissant
+    description: "Le dragon exhale un gaz dans un cône de 4,50 mètres. Chaque créature présente dans la zone doit réussir un jet de sauvegarde de Force DD 13 ou avoir un désavantage aux jets d'attaque basés sur la Force, aux jets de Force, et aux jets de sauvegarde de Force. L'effet dure 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite à ce nouveau jet de sauvegarde."
+```

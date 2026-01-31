@@ -1,0 +1,1 @@
+les lignes de Ley ou Ligne Telluriques sont des sentiers invisibles et mystérieux qui se trouveraient à la surface du monde. Plus précisément, les lignes telluriques relieraient les monuments antiques et sites historiques.

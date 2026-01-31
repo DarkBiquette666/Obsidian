@@ -1,0 +1,1 @@
+Les créatures volantes ont beaucoup d'avantages de mobilité, mais doivent aussi faire attention au risque de chute. Si une créature volante est mise à terre, voit sa vitesse réduite à 0 ou est privée de sa capacité à bouger, la créature tombe, à moins qu'elle n'ait la capacité Vol stationnaire ou qu'elle puisse rester en l'air par un moyen magique, comme avec le sort vol.

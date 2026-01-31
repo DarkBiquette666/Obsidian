@@ -1,0 +1,23 @@
+---
+Class: Spell
+level: 6
+deals_damage: false
+school: enchantement
+aliases:
+  - "Danse irrésistible d'Ottos"
+  - "danse irrésistible d'Otto"
+  - "danse irrésistible d'otto"
+  - "danse irrésistible d'ottos"
+---
+
+
+
+# **Danse irrésistible d'Otto**
+
+*niveau 6 \- enchantement*
+
+**Temps d'incantation** : 1 action **Portée** : 9 mètres **Composantes** : V  
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez une créature visible et à portée. La cible entame une danse hilarante et maladroite, tapant des pieds et applaudissant pendant la durée du sort. Les créatures ne pouvant être charmées sont immunisées à ce sort.  
+La victime doit utiliser tout son mouvement pour danser tout en restant à la même place et à un désavantage à ses jets de sauvegarde de Dextérité et ses jets d'attaque. Les autres créatures ont un avantage à leur jet d'attaque contre la victime. Par une action, la victime peut tenter un jet de sauvegarde de Sagesse afin de regagner le contrôle d'elle-même. Sur un jet réussi, le sort prend fin.

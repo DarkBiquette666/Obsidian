@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(dir:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(head:*)",
+      "Bash(test:*)",
+      "Bash(wc:*)",
+      "Bash(done)",
+      "Bash(cmd /c dir \"y:\\\\Shared drives\\\\Ubiquity\\\\Perso\\\\Obsidian\\\\D&D\\\\Glossary\\\\Geographie\" /s /b)",
+      "Bash(cmd /c \"type \"\"y:\\\\Shared drives\\\\Ubiquity\\\\Perso\\\\Obsidian\\\\D&D\\\\Glossary\\\\Geographie\\\\Villes\\\\Eauprofonde.md\"\" | head -c 500\")",
+      "Bash(cmd /c:*)",
+      "Bash(python extract_spells.py:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(for file in \"Arrêt du temps\" \"Changement de forme\" \"Emprisonnement\" \"Ennemi subconscient\" \"Guérison de groupe\" \"Hurlement psychique\" \"Invulnérabilité\" \"Lame du désastre\" \"Métamorphose de groupe\" \"Métamorphose suprême\" \"Mot de pouvoir guérisseur\" \"Mot de pouvoir mortel\" \"Mur prismatique\" \"Nuée de météores\" \"Portail\" \"Prémonition\" \"Projection astrale\" \"Résurrection suprême\" \"Tempête vengeresse\")",
+      "Bash(do)",
+      "Bash(if [ -f \"y:\\\\Shared drives\\\\Ubiquity\\\\Perso\\\\Obsidian\\\\D&D\\\\Glossary\\\\Liste des Sorts/$file.md\" ])",
+      "Bash(then)",
+      "Bash(echo:*)",
+      "Bash(else)",
+      "Bash(fi)",
+      "Bash(for spell in \"Arrêt du temps\" \"Changement de forme\" \"Emprisonnement\" \"Ennemi subconscient\" \"Guérison de groupe\" \"Hurlement psychique\" \"Invulnérabilité\" \"Lame du désastre\" \"Métamorphose de groupe\" \"Métamorphose suprême\" \"Mot de pouvoir guérisseur\" \"Mot de pouvoir mortel\" \"Mur prismatique\" \"Nuée de météores\" \"Portail\" \"Prémonition\" \"Projection astrale\" \"Résurrection suprême\" \"Souhait\" \"Tempête vengeresse\")",
+      "Bash(if [ -f \"$spell.md\" ])",
+      "Bash(tee:*)",
+      "Bash(pwsh -Command:*)",
+      "Bash(wait:*)",
+      "Bash(for file in \"y:\\\\Shared drives\\\\Ubiquity\\\\Perso\\\\Obsidian\\\\D&D\\\\Glossary\\\\Liste des Sorts\"/*.md)",
+      "Bash(do wc -l \"$file\")",
+      "Bash(du:*)",
+      "mcp__foundry-mcp__get-world-info",
+      "mcp__foundry-mcp__create-quest-journal",
+      "mcp__foundry-mcp__list-journals",
+      "mcp__foundry-mcp__search-journals"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"grp_backstory","type":"group","label":"PASSÉ (Backstory)","x":-1000,"y":-200,"width":400,"height":400,"color":"1"},
+		{"id":"node_pacte","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/00-Backstory/E00-Le-Pacte-Originel.md","x":-980,"y":-180,"width":360,"height":360,"color":"1"},
+		{"id":"grp_arc1","type":"group","label":"ARC 1 : LE SECRET DE TRÉPIED (Accompli)","x":-500,"y":-400,"width":500,"height":800,"color":"4"},
+		{"id":"node_arc1_1","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/01-Arc1-Trepied/E01-Le-Puits-Maudit.md","x":-480,"y":-380,"width":460,"height":200,"color":"4"},
+		{"id":"node_arc1_2","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/01-Arc1-Trepied/E02-Enlevement-Alfonse.md","x":-480,"y":-140,"width":460,"height":200,"color":"4"},
+		{"id":"node_arc1_3","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/01-Arc1-Trepied/E03-Le-Rapport-Aldric.md","x":-480,"y":100,"width":460,"height":280,"color":"4"},
+		{"id":"grp_arc2","type":"group","label":"ARC 2 : LES ARTISANS DISPARUS (Actif)","x":100,"y":-400,"width":500,"height":800,"color":"3"},
+		{"id":"node_arc2_1","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/02-Arc2-Padhiver/D01-Voyage-Padhiver.md","x":120,"y":-380,"width":460,"height":200,"color":"3"},
+		{"id":"node_arc2_2","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/02-Arc2-Padhiver/E01-Enquete-Sparks.md","x":120,"y":-140,"width":460,"height":200,"color":"3"},
+		{"id":"node_arc2_3","type":"file","file":"Campagne/Wah et Ny/Campagne 1 - 1/Arc 0 - Main Stories and Campain Resources/Timeline/Events/02-Arc2-Padhiver/D02-Mirabar-Ou-Lunargent.md","x":120,"y":100,"width":460,"height":280,"color":"6"},
+		{"id":"grp_futur","type":"group","label":"FUTUR (Arcs 3-5)","x":700,"y":-400,"width":400,"height":800,"color":"5"},
+		{"id":"txt_arc3","type":"text","text":"**ARC 3 : L'OMBRE DE LA GUERRE**\n\n- Conséquence du choix Mirabar/Lunargent.\n- Sauvetage de l'artisan manquant.\n- Découverte du projet de Portail.","x":720,"y":-380,"width":360,"height":200,"color":"5"},
+		{"id":"txt_arc4","type":"text","text":"**ARC 4 : LE DÔME DE FER**\n\n- Assaut sur l'usine sous-marine.\n- Libération des esclaves.\n- Ouverture de la Fissure vers Nessus.","x":720,"y":-140,"width":360,"height":200,"color":"5"},
+		{"id":"txt_arc5","type":"text","text":"**ARC 5 : LE NESSUS**\n\n- Voyage en Enfer.\n- Duel Heaum vs Asmodée.\n- Destin final d'Aldric.","x":720,"y":100,"width":360,"height":200,"color":"5"}
+	],
+	"edges":[
+		{"id":"edge_1","fromNode":"node_pacte","fromSide":"right","toNode":"node_arc1_1","toSide":"left"},
+		{"id":"edge_2","fromNode":"node_arc1_1","fromSide":"bottom","toNode":"node_arc1_2","toSide":"top"},
+		{"id":"edge_3","fromNode":"node_arc1_2","fromSide":"bottom","toNode":"node_arc1_3","toSide":"top"},
+		{"id":"edge_4","fromNode":"node_arc1_3","fromSide":"right","toNode":"node_arc2_1","toSide":"left","label":"Session 03"},
+		{"id":"edge_5","fromNode":"node_arc2_1","fromSide":"bottom","toNode":"node_arc2_2","toSide":"top"},
+		{"id":"edge_6","fromNode":"node_arc2_2","fromSide":"bottom","toNode":"node_arc2_3","toSide":"top"},
+		{"id":"edge_7","fromNode":"node_arc2_3","fromSide":"right","toNode":"txt_arc3","toSide":"left","label":"Conséquences"}
+	]
+}

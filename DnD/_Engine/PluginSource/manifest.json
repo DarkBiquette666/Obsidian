@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-rpg-engine",
+	"name": "RPG Engine",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Turn your Vault into a structured Database with Schema, Inheritance and Strong Typing.",
+	"author": "Anth",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

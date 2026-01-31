@@ -1,0 +1,122 @@
+/* RPG Engine Inspector Styles */
+
+.rpg-inspector {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 12px;
+}
+
+.rpg-inspector h2 {
+    font-size: 1.2em;
+    margin: 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.rpg-inspector .schema-name {
+    font-size: 0.6em;
+    color: var(--text-muted);
+    font-weight: normal;
+    margin-left: 8px;
+}
+
+/* Field Groups */
+.rpg-field-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.rpg-field-group label {
+    font-size: 0.85em;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.rpg-field-group input[type="text"],
+.rpg-field-group input[type="number"],
+.rpg-field-group textarea {
+    width: 100%;
+    background: var(--background-modifier-form-field);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+
+/* Arrays & Lists */
+.rpg-array-container {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 10px;
+    background: var(--background-primary-alt);
+}
+
+.rpg-array-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.rpg-array-items {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.rpg-item-card {
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 12px;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.rpg-item-card .item-type-label {
+    font-size: 0.75em;
+    font-weight: bold;
+    color: var(--interactive-accent);
+    margin-bottom: 8px;
+    border-bottom: 1px solid var(--background-modifier-border-focus);
+    display: inline-block;
+}
+
+.rpg-item-remove-btn {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    padding: 2px 6px;
+    font-size: 10px;
+    background: transparent;
+    color: var(--text-muted);
+    border: none;
+    cursor: pointer;
+}
+
+.rpg-item-remove-btn:hover {
+    color: var(--text-error);
+    background: var(--background-modifier-error);
+}
+
+/* Buttons */
+.rpg-add-buttons {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.rpg-add-buttons button {
+    font-size: 0.8em;
+    padding: 4px 10px;
+    background: var(--interactive-normal);
+    cursor: pointer;
+}
+
+.rpg-add-buttons button:hover {
+    background: var(--interactive-hover);
+}

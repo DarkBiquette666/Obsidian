@@ -1,0 +1,30 @@
+---
+Class: Spell
+level: 1
+deals_damage: false
+school: abjuration
+domain_spells:
+  - "[[Guerre]]"
+aliases:
+  - "Bouclier de la fois"
+  - "bouclier de la foi"
+  - "bouclier de la fois"
+---
+
+
+
+
+
+# **Bouclier de la foi**
+
+*niveau 1 \- abjuration*
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un bout de texte saint écrit sur un petit parchemin)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Un champ scintillant apparaît et entoure une créature de votre choix dans la portée du sort, lui accordant un bonus de \+2 à la CA pour la durée du sort.

@@ -1,0 +1,21 @@
+Tu va trouver dans  une essaie de system pour gérer l'écriture et l cohérence d'une campaagne DnD. 
+
+J'aimerai que tu la review et qu'on l'améliore.
+
+L'idée c'est d'avoir un assistant pour créer la campagne au fur et à mesure des séances tout en gardant l'histoire principale en ligne de mire. 
+
+J'aimerai une histoire à embranchement multiple où chaque décision va influencer la suite de l'histoire.
+
+J'imagine l'histoire de la campagne en différente strate.
+
+1) L'histoire principale qui es tl'histoire de Aldric et d'Asmodée. Le première grand partie de la campagne se finira sur la fin de l'histoire de Aldric (sa mort ou sa rédemption) pour laisser la place a une suite avec Asmodée directement.
+2) J'imagine des milestones/moment clé de l'histoire. Ces moment clés doivent avoir plusieurs version, pour correspondre au choix que le joueur aurait fais jusque là dans la state de niveau 3 ainsi que le smilestone qui auront précédé.
+3) Ce strate inclue des histoire directement liée à la trame principale, sous forme de sidequest. Les décisions du joueur lors de ces evenements influence directement les milestone suivante.
+4) Des side quest que le joueur peu ou pas prendre. L'idée de cette strate et de donnée vie au personnage secondaire que le personnage peut croiser, lui donner envie de faire autre chose ou juste enrichir l'univers.
+
+
+Chaque personange qu'on crée doit avoir une sorte de fiche. Plus le personnage est important plus la fiche doit etre précise et ressembler à une fiche de personnage. Allant du simple pnj paysan qui a juste une race et un background à une personnage comme Aldric qui est un personnage complet et complexe, race/classe/niveau/bakcground etc.
+
+Il faut également utiliser les tool dispo dans Obsidian tel que mermaind et canvas pour garder une trace de l'histoire et avoir une vision claire des différent embranchement à prendre et pris (lors du suivis de campagne) pour que je sache vers où mener le joueur ensuite et comment transfomer l'univers en fonction de ses choix.
+
+As tu des questions?

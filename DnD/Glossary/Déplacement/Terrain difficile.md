@@ -1,0 +1,3 @@
+Les combats ont rarement lieu dans des pièces nues ou dans des plaines sans rien de spécial. Que ce soient dans des cavernes remplies de rochers, des forêts étouffées de bruyères ou sur des escaliers traîtres, les combats typiques se passent souvent sur des terrains difficiles. Chaque mètre sur un terrain difficile coûte un mètre supplémentaire. Cette règle ne change pas même si les obstacles se cumulent sur un terrain difficile.
+
+Des meubles bas, des gravats, des sous-bois, des escaliers raides, de la neige et des tourbières sont des exemples de terrains difficiles. L'espace occupé par une autre créature, qu'elle soit hostile ou non, compte également comme un terrain difficile.

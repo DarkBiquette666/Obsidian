@@ -1,0 +1,26 @@
+---
+Class: Spell
+level: 2
+deals_damage: false
+school: nécromancie
+domain_spells:
+  - "[[Crépuscule]]"
+aliases:
+  - "Cécité-Surdités"
+  - "cécité-surdité"
+  - "cécité-surdités"
+---
+
+
+
+
+
+# **Cécité/Surdité**
+
+*niveau 2 \- nécromancie*
+
+**Temps d'incantation** : 1 action **Portée** : 9 mètres **Composantes** : V  
+**Durée** : 1 minute
+
+Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous pouvez voir dans la portée du sort. Celle-ci doit réussir un jet de sauvegarde de Constitution sans quoi elle est soit aveuglée, soit assourdie (selon votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution. En cas de réussite, le sort prend fin.  
+***Aux niveaux supérieurs***. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2\.
