@@ -1,0 +1,10 @@
+{
+  "autocomplete": [
+    {
+      "field": "",
+      "folder": ""
+    }
+  ],
+  "regexpTrigger": "/",
+  "checkboxPosition": "right"
+}
