@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "09c8b34ab8a8928d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a0ad602610377e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd01b1c32a54fae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossaire/Résumé Campagne.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Résumé Campagne"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "043bcf57d03a7e9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b202a6d09f8ca619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee512c7382277626",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6675628011b074ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db1c48b541b7466a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "16640ab4577c5788",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd02998142c4e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ef6697eb35ac90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossaire/Résumé Campagne.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Résumé Campagne"
+            }
+          },
+          {
+            "id": "cff2511513bace08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Glossaire/Résumé Campagne.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Résumé Campagne"
+            }
+          },
+          {
+            "id": "a66a0536f372b3a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea33133460dbc31f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "710c8b86eee1036c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Glossaire/Résumé Campagne.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Résumé Campagne"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "sheet-plus:Create excel file": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "fd01b1c32a54fae7",
+  "lastOpenFiles": [
+    "Glossaire/Journal de Quêtes.md",
+    "Glossaire/Résumé Campagne.md",
+    "Glossaire/Objets/Graine de Fée.md",
+    "Session/13-01-2026.md",
+    "Glossaire/Lieux/Ivringryth (Mine Grise).md",
+    "Glossaire/Lieux/Bois Mort.md",
+    "Glossaire/Bestiaire/Karyatide.md",
+    "Glossaire/Bestiaire/Tyrannoeil.md",
+    "Glossaire/Bestiaire/Homme-Froid.md",
+    "Glossaire/Bestiaire/Djinn.md",
+    "Glossaire/Lore/La Marque Maudite.md",
+    "Glossaire/Lore/Archives sur la Marque.md",
+    "Glossaire/Lore/Lycanthropie Artificielle.md",
+    "Glossaire/Lore/Rituel d'Amplification Nécromantique.md",
+    "Glossaire/Lore/Rituel de Sang.md",
+    "Glossaire/Lore/Sombre-Verbe.md",
+    "Glossaire/Objets/Chevalière d'Eldar.md",
+    "Glossaire/Personnages/Saint Héron.md",
+    "Glossaire/Personnages/Hérault.md",
+    "Archives/Veille note à classer.md",
+    "Glossaire/Personnages/Lucius.md",
+    "Glossaire/Personnages/Nordreg.md",
+    "Glossaire/Personnages/Nasylvas.md",
+    "Glossaire/Factions/Culte du Crâne.md",
+    "Glossaire/Bestiaire/Âme en Peine.md",
+    "zAssets/Pasted image 20260113235658.png",
+    "zAssets",
+    "Glossaire/Personnages/Ryon Mandor.md",
+    "Archives",
+    "Glossaire/Lore",
+    "Glossaire/Bestiaire",
+    "Glossaire/Objets",
+    "Glossaire/Factions",
+    "Glossaire/Lieux",
+    "Glossaire/Personnages",
+    "Glossaire",
+    "Session"
+  ]
+}
